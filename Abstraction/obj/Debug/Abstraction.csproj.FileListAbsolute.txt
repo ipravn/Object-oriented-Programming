@@ -1,0 +1,7 @@
+C:\Users\IFA\RiderProjects\Program\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\IFA\RiderProjects\Program\Abstraction\obj\Debug\Abstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\IFA\RiderProjects\Program\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\IFA\RiderProjects\Program\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\IFA\RiderProjects\Program\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\IFA\RiderProjects\Program\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\IFA\RiderProjects\Program\Abstraction\obj\Debug\Abstraction.pdb
