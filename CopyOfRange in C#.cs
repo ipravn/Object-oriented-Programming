@@ -1,3 +1,5 @@
+// Function:-
+
 static int[] copyOfRange (int[] src, int start, int end) {
             int len = end - start;
             int[] dest = new int[len];
@@ -8,7 +10,7 @@ static int[] copyOfRange (int[] src, int start, int end) {
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
-/*internal class Program
+internal class Program
     {
         public static void Main(string[] args)
         {
@@ -29,11 +31,8 @@ static int[] copyOfRange (int[] src, int start, int end) {
             int[] dest = new int[len];
             Array.Copy(src, start, dest, 0, len);
             return dest;
-        }
-
-       
-        
-    }*/
+        }   
+    }
             
  //Output:
  //78,9,14,51
